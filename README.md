@@ -20,4 +20,3 @@ Click Inject
 Go into online and press 'insert' to open and close the menu
 Enjoy!
 
-Legal: We do NOT own YimMenu, we are not responsible for any damages caused by YimMenu.
