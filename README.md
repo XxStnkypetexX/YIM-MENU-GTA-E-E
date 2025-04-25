@@ -4,7 +4,7 @@ Please note that you may need to disable your anti-virus on your computer.
 This is not a virus, but sometimes anti-viruses will pick up false positives
 and may also delete the .dll files or the injector as your computer might not recognise them and assume they're suspiciuous.
 
-If you have any issues feel free to ask for help in our discord and we'll try out best to help out!
+If you have any issues feel free to ask for help in discord and Ill try my best to help out!
 
 PLEASE DO NOT MOD ON YOUR MAIN ACCOUNT IF YOU'RE WORRIED ABOUT BEING BANNED!
 
