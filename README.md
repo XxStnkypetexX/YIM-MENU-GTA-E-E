@@ -1,4 +1,4 @@
-Hey, thanks for downloading from my discord server! (SCROLL DOWN FOR TUTORIAL)
+
 
 Please note that you may need to disable your anti-virus on your computer.
 This is not a virus, but sometimes anti-viruses will pick up false positives
